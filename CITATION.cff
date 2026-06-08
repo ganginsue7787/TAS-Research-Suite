@@ -1,0 +1,78 @@
+cff-version: 1.2.0
+title: "TAS Research Suite: Topological Anomaly Score Framework for Early Warning of Critical Transitions"
+message: >-
+  If you use this software or the methods it implements in your research,
+  please cite it using the metadata in this file.
+type: software
+
+authors:
+  - family-names: Kang
+    given-names: In-Su
+    alias: kang-insu
+    affiliation: Korea Electric Power Corporation (KEPCO)
+
+version: 1.0.0
+date-released: "2025-01-01"
+
+abstract: >-
+  TAS Research Suite implements the Topological Langevin Dynamics (TLD) framework,
+  providing open-source tools for early-warning detection of critical transitions
+  using Persistent Homology and Topological Data Analysis. Core components include:
+  Topological Anomaly Score (TAS), Persistent Entropy (Hp), anisotropic Vietoris-Rips
+  filtration, adaptive alpha-tuning via Bayesian optimisation, Topological Early Warning
+  Index (TEWI), Topological Collapse Rate, and Topological Fingerprint Library.
+  Applications span deep neural network learning collapse detection, power grid
+  voltage instability early warning, and chaotic dynamical system transition detection.
+
+keywords:
+  - "Topological Data Analysis"
+  - "Persistent Homology"
+  - "Topological Anomaly Score"
+  - "Persistent Entropy"
+  - "Early Warning Signals"
+  - "Critical Transitions"
+  - "Deep Learning"
+  - "Gradient Vanishing"
+  - "Learning Collapse"
+  - "Power Systems"
+  - "Chaos Detection"
+  - "Double Pendulum"
+  - "Anisotropic Metric"
+  - "Vietoris-Rips Filtration"
+  - "Topological Langevin Dynamics"
+
+license: MIT
+
+repository-code: "https://github.com/kang-insu/TAS-Research-Suite"
+
+references:
+  - type: article
+    title: >-
+      Topological Anomaly Score and Persistent Entropy for Early Detection
+      of Chaos Transition in Double Pendulum Dynamics:
+      A Topological Langevin Dynamics Framework
+    authors:
+      - family-names: Kang
+        given-names: In-Su
+    year: 2025
+    notes: "Manuscript v3, in preparation (TLD Framework Paper 1)"
+
+  - type: article
+    title: >-
+      Persistent-Homology-Based Early Warning Signals of
+      Learning Collapse in Deep Neural Networks
+    authors:
+      - family-names: Kang
+        given-names: In-Su
+    year: 2025
+    notes: "Manuscript v2, in preparation (TLD Framework Paper 3)"
+
+  - type: article
+    title: >-
+      Energy Barriers and Fundamental Limits of Langevin MCMC
+      in Nonconvex Optimization
+    authors:
+      - family-names: Kang
+        given-names: In-Su
+    year: 2025
+    notes: "Submitted (TLD Framework Paper 2)"
