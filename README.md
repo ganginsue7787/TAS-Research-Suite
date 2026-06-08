@@ -3,7 +3,7 @@
 **Topological Anomaly Score (TAS): Early Warning Signals of Gradient Collapse in Deep Neural Networks**
 
 > *TLD (Topological Langevin Dynamics) Framework — v3*
-> Author: Kang, In-Su (한국전력공사)
+> Author: Kang, In-Su  
 
 [![CI](https://github.com/your-username/TAS-Journal-Suite/actions/workflows/ci.yml/badge.svg)](https://github.com/your-username/TAS-Journal-Suite/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
